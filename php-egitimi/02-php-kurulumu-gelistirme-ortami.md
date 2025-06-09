@@ -1,5 +1,3 @@
-## 🛠️ PHP Kurulumu ve Geliştirme Ortamı
-
 ### 🔹 PHP Dosyaları Nasıl Çalışır?
 
 PHP dosyaları `.php` uzantılıdır ve tarayıcıda doğrudan çalışmaz. Sunucu tarafında işlenip tarayıcıya **HTML çıktısı** gönderilir.
